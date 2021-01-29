@@ -1,0 +1,17 @@
+@media (max-width: 768px){
+    .status {
+        margin-bottom: 20px;
+    }
+    .input-field {
+        width: 400px;
+    }
+}
+
+/* @media (max-width: 575px){
+    .status {
+        margin-bottom: 20px;
+    }
+    .input-field div {
+        width: 100%;
+    }
+} */
